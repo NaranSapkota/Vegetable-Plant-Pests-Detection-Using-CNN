@@ -1,0 +1,14 @@
+Django
+django-heroku
+django-hosts
+djangorestframework=
+gunicorn
+pipenv
+virtualenv
+virtualenv-clone
+numpy
+Pillow
+sklearn
+scikit-learn
+scipy
+django-cors-headers
